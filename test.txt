@@ -1,1 +1,3 @@
 ngo manh khuong
+
+chinh sua truc tiep tren repo Github
